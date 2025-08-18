@@ -67,4 +67,8 @@
  <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/EmmanoelDevOps" data-color-scheme="no-preference: claro_alto_contraste; light: light; dark: dark;" data-size="large" aria-label="Follow @EmmanoelDevOps on GitHub">Follow @EmmanoelDevOps</a>
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/https://github.com/EmmanoelDevOps/https://github.com/EmmanoelDevOps/output/snake.svg" alt="Snake animation" />
+
+###
