@@ -69,9 +69,10 @@
 
 <br clear="both">
 
-<div id="user-content-toc">
-  <ul align="center">
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/https://github.com/EmmanoelDevOps/https://github.com/EmmanoelDevOps/output/snake.svg" alt="Snake animation" />
-</div>
+
+###
 
 
