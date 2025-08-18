@@ -9,7 +9,7 @@
   Hi 👋, I'm Emmanoel! A passionate technology student from Brazil.
 
 
-  - 🌱I am currently studying systems analysis and development at Cruzeiro do Sul Virtual. <img align="right" alt="html5" src="https://github.com/user-attachments/assets/74b178a1-40d5-404e-8a40-8edcabf8ca04" />
+  - 🌱I am currently studying systems analysis and development at Cruzeiro do Sul Virtual. <img align="center" alt="html5" src="https://github.com/user-attachments/assets/74b178a1-40d5-404e-8a40-8edcabf8ca04" />
 
   - 🔭 I'm seeking my first job opportunity as a Front-end and Back-end Developer with a focus on Artificial Intelligence. I'm eager to apply my skills and knowledge in a dynamic and innovative environment.
 </p>
