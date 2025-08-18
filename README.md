@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Emmanoel! A passionate technology student from Brazil.
 
-  - 🌱I am currently studying systems analysis and development at Cruzeiro do Sul Virtual. <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱I am currently studying systems analysis and development at Cruzeiro do Sul Virtual. <img align="center" alt="html5" src="[https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white](https://github.com/user-attachments/assets/aee4c60a-a087-4568-8f4b-3dcfa32a1a87)" />
 
   - 🔭 I'm seeking my first job opportunity as a Front-end and Back-end Developer with a focus on Artificial Intelligence. I'm eager to apply my skills and knowledge in a dynamic and innovative environment.
 </p>
