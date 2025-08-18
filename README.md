@@ -40,8 +40,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanoelcarvalho/)
 [![github](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/EmmanoelDevOps/)
 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/EmmanoelDevOps" data-color-scheme="no-preference: claro_alto_contraste; light: light; dark: dark;" data-size="large" aria-label="Follow @EmmanoelDevOps on GitHub">Follow @EmmanoelDevOps</a>
+
 
 
 
@@ -60,4 +59,7 @@
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </div>
-  
+
+
+  <!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/EmmanoelDevOps" data-color-scheme="no-preference: claro_alto_contraste; light: light; dark: dark;" data-size="large" aria-label="Follow @EmmanoelDevOps on GitHub">Follow @EmmanoelDevOps</a>
