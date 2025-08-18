@@ -13,7 +13,7 @@
   
   
   
-  - 🌱I am currently studying systems analysis and development at Cruzeiro do Sul Virtual. <img align="center" alt="html5" src="https://github.com/user-attachments/assets/74b178a1-40d5-404e-8a40-8edcabf8ca04" />
+  - 🌱I am currently studying systems analysis and development at Cruzeiro do Sul Virtual. [![Cruzeiro do Sul](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.cruzeirodosulvirtual.com.br//)
 
 
 
@@ -38,7 +38,7 @@
 
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanoelcarvalho/)
-
+[![github](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/EmmanoelDevOps/)
 
 
 <!-- GIF -->
