@@ -6,20 +6,20 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Emmanoel! A student passionate about computers from Brazil.
+  Hi 👋, I'm Emmanoel! A passionate technology student from Brazil.
 
-  - 🌱 I am currently studying systems analysis and development cruzeiro do sul virtual <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱I am currently studying systems analysis and development at Cruzeiro do Sul Virtual. <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
-  - 🔭 I'm looking for my first job opportunity as a Front-end and Back-end Developer with a focus on Artificial Intelligence (AI). I'm eager to apply my skills and knowledge in a dynamic and innovative environment..
+  - 🔭 I'm seeking my first job opportunity as a Front-end and Back-end Developer with a focus on Artificial Intelligence. I'm eager to apply my skills and knowledge in a dynamic and innovative environment.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I'm a dynamic and creative 38-year-old professional currently residing in Brazil. With experience as a Purchasing Assistant, I've developed valuable skills in communication, negotiation, and problem-solving.
+  - 💬 A dynamic and creative 38-year-old professional, married, father, with experience as a Purchasing Assistant, I have developed valuable skills in communication, negotiation and problem-solving.
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - ⚡ I enjoy reading a good book, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception for problem-solving..
 </details>
 
 <!-- Links -->
@@ -28,7 +28,7 @@
 
 
 <!-- GIF -->
-<p align="left">
+<p align="center">
   <img align="center" src="https://github.com/user-attachments/assets/80b2bd0a-3baa-486d-ba03-e5c6f2e81f7d" alt="Imagem">
 </p>
 
