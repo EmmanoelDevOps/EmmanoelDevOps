@@ -4,6 +4,8 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Emmanoel! A passionate technology student from Brazil.
