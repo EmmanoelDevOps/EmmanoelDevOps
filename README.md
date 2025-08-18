@@ -13,7 +13,7 @@
   
   
   
-  - 🌱I am currently studying systems analysis and development at Cruzeiro do Sul Virtual. [![Cruzeiro do Sul](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.cruzeirodosulvirtual.com.br//)
+  - 🌱I am currently studying systems analysis and development at Cruzeiro do Sul Virtual. [![Cruzeiro do Sul](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)](https://www.cruzeirodosulvirtual.com.br//)
 
 
 
