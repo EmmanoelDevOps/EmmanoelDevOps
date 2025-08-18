@@ -40,19 +40,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanoelcarvalho/)
 [![github](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/EmmanoelDevOps/)
 
-<!DOCTYPE html>
-<html>
- 
-<head>
-    <meta charset="utf-8">
-    <title>Botão do WhatsApp</title>
-</head>
- 
-<body>
-    <a href="" id="whatsapp-share-btt" rel="nofollow" target="_blank">WhatsApp</a>    
-</body>
- 
-</html>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/EmmanoelDevOps" data-color-scheme="no-preference: claro_alto_contraste; light: light; dark: dark;" data-size="large" aria-label="Follow @EmmanoelDevOps on GitHub">Follow @EmmanoelDevOps</a>
+
 
 
 <!-- GIF -->
