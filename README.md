@@ -69,9 +69,8 @@
  <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/EmmanoelDevOps" data-color-scheme="no-preference: claro_alto_contraste; light: light; dark: dark;" data-size="large" aria-label="Follow @EmmanoelDevOps on GitHub">Follow @EmmanoelDevOps</a>
 
-</br>
-<p align="center">   <img alingn="center" src="https://profile-cownter.glitch.me/EmmanoelDevOps/cownt.sgv" /></p>
-
+![Contador de Visitas]
+(https://web-production-profile-views.up.railway.app/count.svg? user=EmmanoelDevOps&color=green&whote=140&height=28
 
 
 
