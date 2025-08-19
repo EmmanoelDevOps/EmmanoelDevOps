@@ -44,7 +44,9 @@
 .[<img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />](https://w.app/zx2iho)
 
 
+## 📊Estatísticas
 
+> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanoelDevOps&show_icons=true&theme=blue_navy )
 
 <!-- GIF -->
 <p align="center">
